@@ -27,7 +27,7 @@
 -  **SCSS** source files included
 -  6 Colour Schemes
 -  1000+ FontAwesome 5 icons
--  Compatible with all modern browsers
+-  Compatible with all browsers
 
 ## Credits
 - [Bootstrap](http://getbootstrap.com/)

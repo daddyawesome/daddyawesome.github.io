@@ -6,8 +6,7 @@
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
     Description of role
- 
-  - company: Accenture
+- company: Accenture
   link: Link to company (optional)
   job_title: Real Time Analyst
   dates: Date Range (eg. November 2016 - present)
@@ -15,7 +14,6 @@
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
     Description of role
-    
 - company: Velez College
   link: Link to company (optional)
   job_title: College Instructor
@@ -24,8 +22,7 @@
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
     Description of role
-  
- - company: University of San Jose-Recoletos
+- company: University of San Jose-Recoletos
   link: Link to company (optional)
   job_title: Math and Physics Professor
   dates: Date Range (eg. November 2016 - present)

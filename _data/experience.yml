@@ -1,17 +1,14 @@
 # Jobs
-- layout: left (options: left, right, top, top-right, top-middle)
-  company: Company name
-  link: Link to company (eg. https://google.com)(optional)
+- company: Company name
+  link: Link to company (optional)
   job_title: Job title
   dates: Date Range (eg. November 2016 - present)
   quote: >
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
     Description of role
-    
 # multiple job titles
-- layout: left (options: left, right, top, top-right, top-middle)
-  company: Company name
+- company: Company name
   link: Link to company (optional)
   jobs:
     - title: Job title 1

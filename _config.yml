@@ -67,11 +67,11 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>pandas</mark> and <mark>Eating Pizza</mark>
 
 content:
-- title: Experience # Title for the section
+  - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
     
-- title: Education # Title for the section
+  - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -85,7 +85,7 @@ content:
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-- title: Projects # Title for the section
+  - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -106,7 +106,7 @@ content:
 
 
 
-- title: A Little More About Me
+  - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:

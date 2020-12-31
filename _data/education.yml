@@ -1,7 +1,12 @@
-- name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
-    Short institution or course description (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of qualificationion
+# College
+- degree: Bachelor's (Licence) Degree
+  uni: Spiru Haret University
+  year: 2008 &mdash; 2011
+  awards:
+  summary: Specialized and graudated in Sociology
+
+#High-school
+- degree: High School Degree
+  uni: Stefan Odobleja Theoretical High School
+  year: 2004 &mdash; 2008
+  summary: Specialized and graduated in Mathematics and Computer Science

@@ -1,40 +1,26 @@
 # Jobs
-# Qualfon
-- company: Qualfon
-  link: Link to company (optional)
-  job_title: Reports Analyst
+- layout: left (options: left, right, top, top-right, top-middle)
+  company: Company name
+  link: Link to company (eg. https://google.com)(optional)
+  job_title: Job title
   dates: Date Range (eg. November 2016 - present)
   quote: >
-    Short description of the company (optional)
+   Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
     Description of role
-
-# Accenture
-- company: Accen
+    
+# multiple job titles
+- layout: left (options: left, right, top, top-right, top-middle)
+  company: Company name
   link: Link to company (optional)
-  job_title: Real Time Analyst
-  dates: Date Range (eg. November 2016 - present)
+  jobs:
+    - title: Job title 1
+      dates: Date Range (eg. November 2016 - present)
+    - title: Job title 2
+      dates: Date Range (eg. January 2015 - November 2016)
   quote: >
-    Short description of the company (optional)
+   Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
     Description of role
-
-# Velez College
-- company: Velez College
-  link: Link to company (optional)
-  job_title: College Instructor
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
-    Short description of the company (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of role
-
-#USJR
-- company: University of San Jose-Recoletos
-  link: Link to company (optional)
-  job_title: Math and Physics Professor
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
-    Short description of the company (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of role
+    
+    

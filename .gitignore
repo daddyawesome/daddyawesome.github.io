@@ -1,2 +1,6 @@
-.DS_Store
-config.codekit
+*.gem
+.bundle
+.sass-cache
+_site
+Gemfile.lock
+*.code-workspace

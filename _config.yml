@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Mark Russel Miranda
-title: Reporting Analyst / Junior Data Scientis
+title: Reporting Analyst / Junior Data Scientist
 email: sir.markds@gmail.com
 website: daddyawesome.github.io/data_science
 
@@ -25,7 +25,7 @@ instagram_username: urdaddyawesome
 linkedin_username: mark-russel-miranda-43b08b34
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -48,17 +48,22 @@ youtube_username: globalmtb
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Mark Russel also know as DADDYAWESOME 
+  Hi, my name's Mark Russel also know as DADDYAWESOME   
   <br>
+     
   I'm a Real Time Analyst & a Physics Instructor from Cebu City, Philippines. I aim to make a difference through data analysis.  
-  I have worked at a number of companies gaining teamwork and leadership skills.
+  I have worked at a number of companies gaining teamwork and leadership skills.   
   <br>
-  I am awesome.
+     
+  I am awesome.   
   <br>
-  Why I am awesome?
- <br>
-  I work as a College instructor for almost 13 years and while working as an instructor I try to teach myself to program and some web development. Right now I work as an analyst where I use data to drive decisions.
-  <br>
+     
+  Why I am awesome?    
+  <br >
+     
+  I work as a College instructor for almost 13 years and while working as an instructor I try to teach myself to program and some web development. Right now I work as an analyst where I use data to drive decisions.   
+  <br>   
+     
   I am most skilled in: <mark>pandas</mark> and <mark>Eating Pizza</mark>
 
 content:

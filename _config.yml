@@ -45,7 +45,7 @@ resume_social_links:
 resume_print_social_links:      false
 
 # Design settings
-resume_theme:                   default
+resume_theme:                   minimal
 
 # Note: when editing locally, remember to restart
 # your Jekyll server when you edit this file. Changes

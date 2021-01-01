@@ -1,12 +1,12 @@
 # Projects
-# JavaScript 30
-- project: JavaScript 30
-  role: Student
-  duration: 2017
-  description: Completed the JavaScript 30 course by Wes Bos. Created 30 different websites using simple JavaScript, CSS, and HTML. View all the pages at <a href="https://andreidbr.github.io/JS30" target=_blank rel="noopener noreferrer">this link</a>.
+# My Data Science Projects
+- project: My Data Science Projects
+  role: Student / Data Scientist
+  duration: 2019 - Present
+  description: Make a blog post about all my learnings in Data Scince. View all the pages/notebooks at <a href="https://daddyawesome.github.io/data_science/" target=_blank rel="noopener noreferrer">this link</a>.
 
-# API Documentation with Swagger UI
-- project: API Documentation with Swagger UI
-  role: Developer & Technical Writer
+# Notebooks a.k.a. My Writings
+- project: Notebooks a.k.a. My Writings
+  role: Technical Writer
   duration: 2017
-  description: Documented a free API using the Swagger specification and Swagger UI template. Performed all necessary tweaks and writing. View it at <a href="https://andreidbr.github.io/dist" target=_blank rel="noopener noreferrer">this link</a>.
+  description: I am trying to learn machine learning and I want to write what I have learned. View it at <a href="https://daddyawesome.github.io/writings/spartan/" target=_blank rel="noopener noreferrer">this link</a>.

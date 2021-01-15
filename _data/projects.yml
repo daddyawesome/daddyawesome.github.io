@@ -10,3 +10,9 @@
   role: Technical Writer
   duration: 2017
   description: I am trying to learn machine learning and I want to write what I have learned. View it at <a href="https://daddyawesome.github.io/writings/spartan/" target=_blank rel="noopener noreferrer">this link</a>.
+
+# Notebooks a.k.a. My Writings
+- project: Algebra and Physics Guide
+  role: Technical Writer / Jquery Developer
+  duration: 2013
+  description: An old site made out of jquery which serves as my students guide for there Algebra and Physics Studies. View it at <a href="https://daddyawesome.github.io/book" target=_blank rel="noopener noreferrer">this link</a>.

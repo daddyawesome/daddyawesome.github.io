@@ -1,9 +1,16 @@
 # Projects
+
+# Streamline Apps
+- project: Streamlit MultiApps
+  role: Data Scientist
+  duration: Jan 2021 - Present
+  description: My collection of Data Science apps in streamlit. View all at <a href="https://share.streamlit.io/daddyawesome/data-app/main/app.py" target=_blank rel="noopener noreferrer">this link</a>.
+
 # My Data Science Projects
-- project: My Data Science Projects
+- project: My Data Science Projects 
   role: Student / Data Scientist
   duration: 2019 - Present
-  description: Make a blog post about all my learnings in Data Scince. View all the pages/notebooks at <a href="https://daddyawesome.github.io/data_science/" target=_blank rel="noopener noreferrer">this link</a>.
+  description: Make a blog post about all my learnings in Data Science. View all the pages/notebooks at <a href="https://daddyawesome.github.io/data_science/" target=_blank rel="noopener noreferrer">this link</a>.
 
 # Notebooks a.k.a. My Writings
 - project: Notebooks a.k.a. My Writings
@@ -11,7 +18,7 @@
   duration: 2017
   description: I am trying to learn machine learning and I want to write what I have learned. View it at <a href="https://daddyawesome.github.io/writings/spartan/" target=_blank rel="noopener noreferrer">this link</a>.
 
-# Notebooks a.k.a. My Writings
+# Algebra and Physics Guide
 - project: Algebra and Physics Guide
   role: Technical Writer / Jquery Developer
   duration: 2013

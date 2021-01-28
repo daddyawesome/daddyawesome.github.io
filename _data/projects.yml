@@ -1,6 +1,12 @@
 # Projects
 
-# Streamline Apps
+# Python Shinobi
+- project: Python Shinobi
+  role: Author
+  duration: Jan 2021 - Present
+  description: This is a Jupyter book I tried to finished, it is a collection of Jupyter notebooks I made to teach kids to learn python. View all at <a href="https://daddyawesome.github.io/jbooks/APythonShinobi.html" target=_blank rel="noopener noreferrer">this link</a>.
+
+# Streamlit Apps
 - project: Streamlit MultiApps
   role: Data Scientist
   duration: Jan 2021 - Present
